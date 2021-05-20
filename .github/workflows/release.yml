@@ -273,7 +273,7 @@ jobs:
             installer-extension: .app
 
     container:
-      image: floydpink/ubuntu-install-builder:20.9.0
+      image: floydpink/ubuntu-install-builder:21.3.0
 
     steps:
       - name: Checkout
